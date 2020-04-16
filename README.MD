@@ -1,2 +1,2 @@
-deploy-users repo to create users easily
-Easily deploy SI users
+Easily deploy your SI automatically
+toto
